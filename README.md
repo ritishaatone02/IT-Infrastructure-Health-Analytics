@@ -1,10 +1,10 @@
 # IT Infrastructure Health & Business Impact Intelligence System
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing IT infrastructure health and business impact using Power BI and SQL. It aims to provide insights into infrastructure performance, incidents, SLA compliance, downtime, and operational risks through data-driven reporting.
 
-## 🎯 Objectives
+##  Objectives
 
 * Monitor IT infrastructure health and performance.
 * Analyze incidents and service-level agreement (SLA) compliance.
@@ -12,7 +12,7 @@ This project focuses on analyzing IT infrastructure health and business impact u
 * Identify recurring infrastructure issues and operational risks.
 * Support data-driven IT decision-making.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Microsoft Power BI
 * SQL
@@ -27,7 +27,7 @@ This project focuses on analyzing IT infrastructure health and business impact u
 * Infrastructure Risk Intelligence
 * KPI-Based Reporting
 
-## 📁 Project File
+##  Project File
 
 The repository includes the Power BI dashboard file:
 
@@ -35,14 +35,14 @@ The repository includes the Power BI dashboard file:
 
 Open the file using Microsoft Power BI Desktop to explore the report.
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file from this repository.
 2. Install Microsoft Power BI Desktop.
 3. Open the downloaded file in Power BI Desktop.
 4. Explore the available dashboard pages, filters, and visualizations.
 
-## 💼 Business Value
+##  Business Value
 
 This project demonstrates how data analytics and business intelligence can help IT teams monitor infrastructure, investigate operational issues, track service performance, and prioritize risks.
 
