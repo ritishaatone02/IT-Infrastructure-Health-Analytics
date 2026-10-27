@@ -29,6 +29,10 @@ This project focuses on analyzing IT infrastructure health and business impact u
 
 ##  Images
 <img width="1216" height="691" alt="Screenshot 2026-10-27 182825" src="https://github.com/user-attachments/assets/fd7d2c58-a7a9-478f-9f43-e8d0218ad212" />
+<img width="1231" height="697" alt="Screenshot 2026-10-27 182953" src="https://github.com/user-attachments/assets/7034a7f7-b580-4433-9bb3-bcbb737d2e5a" />
+<img width="1212" height="687" alt="Screenshot 2026-10-27 183044" src="https://github.com/user-attachments/assets/2e13a238-41e6-4f03-8536-2031d487b255" />
+<img width="1208" height="682" alt="Screenshot 2026-10-27 183131" src="https://github.com/user-attachments/assets/59235b86-0c52-4a5c-9022-4d3c3919e1d5" />
+<img width="1207" height="682" alt="Screenshot 2026-10-27 183208" src="https://github.com/user-attachments/assets/b6926367-75cf-4899-8b47-519903039429" />
 
 
 
