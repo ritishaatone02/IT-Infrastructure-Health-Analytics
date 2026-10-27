@@ -27,6 +27,13 @@ This project focuses on analyzing IT infrastructure health and business impact u
 * Infrastructure Risk Intelligence
 * KPI-Based Reporting
 
+##  Images
+<img width="1216" height="691" alt="Screenshot 2026-10-27 182825" src="https://github.com/user-attachments/assets/fd7d2c58-a7a9-478f-9f43-e8d0218ad212" />
+
+
+
+
+  
 ##  Project File
 
 The repository includes the Power BI dashboard file:
